@@ -1,0 +1,6 @@
+Para criar as fases, criei três arquivos HTML, (fase1,fase2 e fase3),
+na fase1 eu alterei o raio e a cor da bola, também alterei a cor da base, na fase2,
+ diminui o raio da bola e os pontos de vida, e aumentei a sua velocidade (dx,dy), ja na fase3
+o jogador só tem um ponto de vida,a bolinha está muito pequena e sua velocidade alta, inclementei um pause
+nas fases através de um alert após clicar na tecla P.Coloquei links após o jogador passar da fase, para ela 
+ir para próxima fase, e linkei também para que sempre que o jogador perca retorne a fase1.
